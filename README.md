@@ -374,20 +374,24 @@ public class VideoActivity extends AppCompatActivity {
  
 Output:
 1.MainActivity.java
+
 ![Screenshot (10)](https://user-images.githubusercontent.com/122344020/233141448-0f3ffe51-8358-43bc-8bf5-5349024002d5.png)
 
 2.CameraActivity.java
+
 ![Screenshot (11)](https://user-images.githubusercontent.com/122344020/233141499-fd9441f0-9bfc-4d82-a73e-6edd09e607ee.png)
 
 3. On clicking camera button and after capturing image
+
 ![Screenshot (12)](https://user-images.githubusercontent.com/122344020/233141529-b00ee225-ce24-4dd8-9802-8f2e3941601d.png)
 
 4. AudioActivity.java
+
 ![Screenshot (13)](https://user-images.githubusercontent.com/122344020/233141552-0e1fe31b-aed2-4093-9ee7-1904cd4b03fc.png)
 
 5.VideoActivity.java
+
 ![Screenshot (14)](https://user-images.githubusercontent.com/122344020/233141572-f90b056b-0755-48fa-88a6-5e6caba6f068.png)
 
- 
 Result:
 Thus, the application use camera, audio and video controls has been build and executed successfully. 
